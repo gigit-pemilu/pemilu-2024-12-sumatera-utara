@@ -1,0 +1,8 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-12-sumatera-utara/tree/main/pileg-dpr/hitung-suara/sub/12-sumatera-utara/sub/06-karo/sub/10-mardingding/sub/2012-bukit-makmur/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-12-sumatera-utara/tree/main/pileg-dpr/hitung-suara/sub/12-sumatera-utara/sub/06-karo/sub/10-mardingding/sub/2012-bukit-makmur/sub/002-tps)
+
