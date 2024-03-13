@@ -1,0 +1,48 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 100
+    bar [2, 100, 33]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 2
+    "2" : 100
+    "3" : 33
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 2     | [2][p-1]    | 1,48       |
+| 2   | PRABOWO GIBRAN | 100   | [100][p-2]  | 74,07      |
+| 3   | GANJAR MAHFUD  | 33    | [33][p-3]   | 24,44      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/12-toba/sub/04-habinsaran/sub/2008-lumban-pinasa/sub/002-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/12-toba/sub/04-habinsaran/sub/2008-lumban-pinasa/sub/002-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/12-toba/sub/04-habinsaran/sub/2008-lumban-pinasa/sub/002-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/fdfc/pemilu/ppwp/12/12/04/20/08/1212042008002-20240223-101813--6db0ff15-6bf6-4891-9e46-740cdcf43834.jpg
+
+https://sirekap-obj-formc.kpu.go.id/fdfc/pemilu/ppwp/12/12/04/20/08/1212042008002-20240223-101823--64182d2d-aabb-4f27-98e7-8bf12258510a.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-24 22:31:28 |
+
+
+

@@ -1,0 +1,16 @@
+# Menu Wilayah
+
+## Link
+
+[HUTAGINJANG](https://github.com/gigit-pemilu/pemilu-2024-12-sumatera-utara/tree/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/01-tapanuli-tengah/sub/17-barus-utara/sub/2001-hutaginjang)
+ | 
+[PANANGGAHAN](https://github.com/gigit-pemilu/pemilu-2024-12-sumatera-utara/tree/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/01-tapanuli-tengah/sub/17-barus-utara/sub/2005-pananggahan)
+ | 
+[PARIK SINOMBA](https://github.com/gigit-pemilu/pemilu-2024-12-sumatera-utara/tree/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/01-tapanuli-tengah/sub/17-barus-utara/sub/2003-parik-sinomba)
+ | 
+[PURBA TUA](https://github.com/gigit-pemilu/pemilu-2024-12-sumatera-utara/tree/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/01-tapanuli-tengah/sub/17-barus-utara/sub/2004-purba-tua)
+ | 
+[SIHARBANGAN](https://github.com/gigit-pemilu/pemilu-2024-12-sumatera-utara/tree/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/01-tapanuli-tengah/sub/17-barus-utara/sub/2006-siharbangan)
+ | 
+[SIHORBO](https://github.com/gigit-pemilu/pemilu-2024-12-sumatera-utara/tree/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/01-tapanuli-tengah/sub/17-barus-utara/sub/2002-sihorbo)
+

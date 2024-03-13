@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 74
+    bar [74, 68, 16]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 74
+    "2" : 68
+    "3" : 16
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 74    | [74][p-1]   | 46,84      |
+| 2   | PRABOWO GIBRAN | 68    | [68][p-2]   | 43,04      |
+| 3   | GANJAR MAHFUD  | 16    | [16][p-3]   | 10,13      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/71-kota-medan/sub/21-medan-selayang/sub/1002-tanjungsari/sub/026-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/71-kota-medan/sub/21-medan-selayang/sub/1002-tanjungsari/sub/026-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/71-kota-medan/sub/21-medan-selayang/sub/1002-tanjungsari/sub/026-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/3b71/pemilu/ppwp/12/71/21/10/02/1271211002026-20240214-230826--3e1644a5-287a-4988-9989-290476ff4eb8.jpg
+
+https://sirekap-obj-formc.kpu.go.id/3b71/pemilu/ppwp/12/71/21/10/02/1271211002026-20240214-230944--3a39b643-53e6-4e32-ad84-7a6cb2bf6c6f.jpg
+
+https://sirekap-obj-formc.kpu.go.id/3b71/pemilu/ppwp/12/71/21/10/02/1271211002026-20240214-231035--c0223ca6-ab32-4611-b08a-b62728a3aca4.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-25 18:00:00 |
+
+
+

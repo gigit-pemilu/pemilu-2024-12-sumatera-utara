@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 90
+    bar [53, 90, 1]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 53
+    "2" : 90
+    "3" : 1
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 53    | [53][p-1]   | 36,81      |
+| 2   | PRABOWO GIBRAN | 90    | [90][p-2]   | 62,50      |
+| 3   | GANJAR MAHFUD  | 1     | [1][p-3]    | 0,69       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/03-tapanuli-selatan/sub/03-angkola-timur/sub/2014-huta-ginjang/sub/001-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/03-tapanuli-selatan/sub/03-angkola-timur/sub/2014-huta-ginjang/sub/001-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/03-tapanuli-selatan/sub/03-angkola-timur/sub/2014-huta-ginjang/sub/001-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/bbc1/pemilu/ppwp/12/03/03/20/14/1203032014001-20240215-091354--29e087d4-ae1e-4b75-9042-1f09fe78af2e.jpg
+
+https://sirekap-obj-formc.kpu.go.id/bbc1/pemilu/ppwp/12/03/03/20/14/1203032014001-20240215-091455--efdca887-a02b-4268-806e-b37f1570a193.jpg
+
+https://sirekap-obj-formc.kpu.go.id/bbc1/pemilu/ppwp/12/03/03/20/14/1203032014001-20240215-091600--32681cd8-2a56-4638-b9cb-6ec7ec1d7d9d.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-15 18:30:25 |
+
+
+

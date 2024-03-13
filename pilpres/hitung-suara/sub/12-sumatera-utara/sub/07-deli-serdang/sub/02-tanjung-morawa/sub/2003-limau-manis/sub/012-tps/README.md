@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 100
+    bar [46, 100, 18]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 46
+    "2" : 100
+    "3" : 18
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 46    | [46][p-1]   | 28,05      |
+| 2   | PRABOWO GIBRAN | 100   | [100][p-2]  | 60,98      |
+| 3   | GANJAR MAHFUD  | 18    | [18][p-3]   | 10,98      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/07-deli-serdang/sub/02-tanjung-morawa/sub/2003-limau-manis/sub/012-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/07-deli-serdang/sub/02-tanjung-morawa/sub/2003-limau-manis/sub/012-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/07-deli-serdang/sub/02-tanjung-morawa/sub/2003-limau-manis/sub/012-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/f94d/pemilu/ppwp/12/07/02/20/03/1207022003012-20240215-002707--01d9af2f-ab40-4c98-995d-e74b340d3300.jpg
+
+https://sirekap-obj-formc.kpu.go.id/f94d/pemilu/ppwp/12/07/02/20/03/1207022003012-20240215-002827--1667f680-f092-4d16-822e-08664112ee0d.jpg
+
+https://sirekap-obj-formc.kpu.go.id/f94d/pemilu/ppwp/12/07/02/20/03/1207022003012-20240215-002939--62fe2cea-bba0-43b1-81e7-28b80b421e0c.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-24 22:31:28 |
+
+
+

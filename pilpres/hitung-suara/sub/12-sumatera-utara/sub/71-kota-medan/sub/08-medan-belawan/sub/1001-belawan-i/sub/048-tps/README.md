@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 84
+    bar [76, 84, 5]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 76
+    "2" : 84
+    "3" : 5
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 76    | [76][p-1]   | 46,06      |
+| 2   | PRABOWO GIBRAN | 84    | [84][p-2]   | 50,91      |
+| 3   | GANJAR MAHFUD  | 5     | [5][p-3]    | 3,03       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/71-kota-medan/sub/08-medan-belawan/sub/1001-belawan-i/sub/048-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/71-kota-medan/sub/08-medan-belawan/sub/1001-belawan-i/sub/048-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/71-kota-medan/sub/08-medan-belawan/sub/1001-belawan-i/sub/048-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/c854/pemilu/ppwp/12/71/08/10/01/1271081001048-20240215-015619--cafabeb9-78da-4178-902b-51fd6cea2f54.jpg
+
+https://sirekap-obj-formc.kpu.go.id/c854/pemilu/ppwp/12/71/08/10/01/1271081001048-20240215-021041--11dcf624-7585-415e-b760-2b29b1ecd92a.jpg
+
+https://sirekap-obj-formc.kpu.go.id/c854/pemilu/ppwp/12/71/08/10/01/1271081001048-20240215-012233--1769d489-074b-4814-b4d4-76111ef11bcf.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-25 21:00:00 |
+
+
+

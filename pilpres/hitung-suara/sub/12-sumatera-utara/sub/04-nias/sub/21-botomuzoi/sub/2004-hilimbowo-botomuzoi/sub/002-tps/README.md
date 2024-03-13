@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 44
+    bar [3, 44, 21]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 3
+    "2" : 44
+    "3" : 21
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 3     | [3][p-1]    | 4,41       |
+| 2   | PRABOWO GIBRAN | 44    | [44][p-2]   | 64,71      |
+| 3   | GANJAR MAHFUD  | 21    | [21][p-3]   | 30,88      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/04-nias/sub/21-botomuzoi/sub/2004-hilimbowo-botomuzoi/sub/002-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/04-nias/sub/21-botomuzoi/sub/2004-hilimbowo-botomuzoi/sub/002-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/12-sumatera-utara/sub/04-nias/sub/21-botomuzoi/sub/2004-hilimbowo-botomuzoi/sub/002-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/f84f/pemilu/ppwp/12/04/21/20/04/1204212004002-20240215-025508--0e3b3230-83ab-41f7-b774-9604d2628ce9.jpg
+
+https://sirekap-obj-formc.kpu.go.id/f84f/pemilu/ppwp/12/04/21/20/04/1204212004002-20240216-094245--719a6b08-f136-44f8-98f4-2cf7ddc9895b.jpg
+
+https://sirekap-obj-formc.kpu.go.id/f84f/pemilu/ppwp/12/04/21/20/04/1204212004002-20240216-094422--32fc74d1-1d92-41b9-973c-5676f53150c6.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-16 13:30:32 |
+
+
+
