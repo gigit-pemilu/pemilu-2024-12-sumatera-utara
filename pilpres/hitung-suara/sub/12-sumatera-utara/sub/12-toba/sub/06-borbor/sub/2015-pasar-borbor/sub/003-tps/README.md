@@ -33,6 +33,8 @@ pie showData
 
 ## Foto C Plano
 
+https://sirekap-obj-formc.kpu.go.id/7788/pemilu/ppwp/12/12/06/20/15/1212062015003-20240314-152704--aafc5bbc-fd4f-4169-bfbd-21b6d77c0dc5.jpg
+
 https://sirekap-obj-formc.kpu.go.id/7788/pemilu/ppwp/12/12/06/20/15/1212062015003-20240214-235534--4889f8a3-e181-40c9-af75-4eb424a9b178.jpg
 
 https://sirekap-obj-formc.kpu.go.id/7788/pemilu/ppwp/12/12/06/20/15/1212062015003-20240215-000224--118bf4a4-222f-4fc1-968c-8ea902a00a1e.jpg
@@ -42,7 +44,7 @@ https://sirekap-obj-formc.kpu.go.id/7788/pemilu/ppwp/12/12/06/20/15/121206201500
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-19 10:00:00 |
+| Time Stamp | 2024-03-14 15:30:00 |
 
 
 
