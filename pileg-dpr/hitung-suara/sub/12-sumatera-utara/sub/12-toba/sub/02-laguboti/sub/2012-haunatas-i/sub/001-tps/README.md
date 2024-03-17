@@ -2,7 +2,7 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/d2ce/pemilu/pdpr/12/12/02/20/12/1212022012001-20240217-150848--7b563e2a-65f4-4f8c-8f5c-1c87a74dc232.jpg
+https://sirekap-obj-formc.kpu.go.id/d2ce/pemilu/pdpr/12/12/02/20/12/1212022012001-20240316-223137--a13a954e-cb66-4b3a-9863-af63a79ab339.jpg
 
 https://sirekap-obj-formc.kpu.go.id/d2ce/pemilu/pdpr/12/12/02/20/12/1212022012001-20240217-152013--c480bdcb-7d0d-4d5b-ae61-c781512aea0d.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/d2ce/pemilu/pdpr/12/12/02/20/12/121202201200
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 16:55:44 |
+| Time Stamp | 2024-03-16 22:33:48 |
 | Kode Dapil | 1202                |
 
 
