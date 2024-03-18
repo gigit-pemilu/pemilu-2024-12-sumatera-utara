@@ -22,11 +22,11 @@ https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/121224200900
 
 https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240214-202542--af1e5b1e-4b90-417d-ac45-e94463037fa6.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240214-221508--4c98ba5e-e817-4420-ab01-9bfd67d4389d.jpg
+https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240318-105100--bfc98e72-5a35-491b-ab28-7c4e7d1f893f.jpg
 
 https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240214-221814--fd551561-5d9f-4170-87b5-b14e063f2852.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240214-221934--bcc4bb31-c6be-4995-9554-54801bc153f5.jpg
+https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240318-105114--ed0f859f-a82b-4ded-81f5-5814041656e1.jpg
 
 https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240214-222041--f8839693-4e8f-4637-a772-a5402bdc9165.jpg
 
@@ -40,14 +40,14 @@ https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/121224200900
 
 https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240214-223347--eeb24393-dfb4-4c15-b357-ef0b4e4d5c6b.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240214-223642--10b49c55-d973-454a-a3db-911688ec1e8d.jpg
+https://sirekap-obj-formc.kpu.go.id/7e59/pemilu/pdpr/12/12/24/20/09/1212242009001-20240318-105131--44a0db12-2065-471c-913b-85312c62c33f.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-18 11:03:46 |
 | Kode Dapil | 1202                |
 
 

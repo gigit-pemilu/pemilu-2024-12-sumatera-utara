@@ -16,15 +16,15 @@ https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/121224201000
 
 https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240214-221955--b600fd40-5479-4cf2-a41d-c436624fee13.jpg
 
-https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240214-222245--f4ccceb1-7374-4d58-9a24-9a1921ccc419.jpg
+https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240318-130311--4827a4db-b800-46cc-b743-8a283929c712.jpg
 
-https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240214-222400--32efb965-b21d-441d-b126-1d722ff85311.jpg
+https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240318-130322--9a757683-6fd7-48ba-9605-ca969875b9de.jpg
 
-https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240214-222619--d89ce4f9-8eec-47ac-be32-04c1a04bf2e0.jpg
+https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240318-130331--c24dad5e-9389-4a5c-b8ac-1e1fbcbeb896.jpg
 
-https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240214-222733--d86aa78b-c693-4a33-8c42-d53795b6a5a7.jpg
+https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240318-130341--b899478e-539b-4e13-8a36-45ea3b82f28f.jpg
 
-https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240214-222919--6c3e6b3d-b192-4dcf-931d-fe88c09e8917.jpg
+https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240318-130350--6b3cbcb7-1c75-4b6b-935f-3296f1880bbe.jpg
 
 https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/1212242010002-20240214-223535--469b3dd3-d328-4ebd-8026-c351a7c791c9.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/5cb5/pemilu/pdpr/12/12/24/20/10/121224201000
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-18 13:33:48 |
 | Kode Dapil | 1202                |
 
 

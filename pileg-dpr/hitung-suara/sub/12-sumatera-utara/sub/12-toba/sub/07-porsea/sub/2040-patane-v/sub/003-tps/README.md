@@ -34,20 +34,20 @@ https://sirekap-obj-formc.kpu.go.id/6217/pemilu/pdpr/12/12/07/20/40/121207204000
 
 https://sirekap-obj-formc.kpu.go.id/6217/pemilu/pdpr/12/12/07/20/40/1212072040003-20240214-195659--1f37d4a6-9f17-49ed-b370-a5e8f903e20a.jpg
 
-https://sirekap-obj-formc.kpu.go.id/6217/pemilu/pdpr/12/12/07/20/40/1212072040003-20240214-222221--2900ef58-6110-4b84-b627-d0aa1fbf0ed9.jpg
+https://sirekap-obj-formc.kpu.go.id/6217/pemilu/pdpr/12/12/07/20/40/1212072040003-20240318-154500--cd479a50-847b-4070-aadd-3803fa2d4ce8.jpg
 
 https://sirekap-obj-formc.kpu.go.id/6217/pemilu/pdpr/12/12/07/20/40/1212072040003-20240214-195737--66062e4c-72ad-4c2f-ac68-9d5c004c49a9.jpg
 
 https://sirekap-obj-formc.kpu.go.id/6217/pemilu/pdpr/12/12/07/20/40/1212072040003-20240214-222350--d853204c-bd16-42ae-9c6a-4aef26feed7a.jpg
 
-https://sirekap-obj-formc.kpu.go.id/6217/pemilu/pdpr/12/12/07/20/40/1212072040003-20240214-222439--05922848-ee56-490f-af5a-ba2ba6fa23dc.jpg
+https://sirekap-obj-formc.kpu.go.id/6217/pemilu/pdpr/12/12/07/20/40/1212072040003-20240318-154510--fc0fea3d-3f7c-46d0-8b4c-21dde2a108d7.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-20 10:03:17 |
+| Time Stamp | 2024-03-18 16:03:50 |
 | Kode Dapil | 1202                |
 
 
